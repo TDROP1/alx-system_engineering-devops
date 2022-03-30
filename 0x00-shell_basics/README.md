@@ -6,3 +6,4 @@
 5-listfilesdigitonly display files in numerical order using ls -la
 6-firstdirectory creates a directory in tmp directory
 7-movethatfile moves a file betty to a directory in /tmp/
+8-firstdelete deletes a file better in /tmp/my_first_directory
