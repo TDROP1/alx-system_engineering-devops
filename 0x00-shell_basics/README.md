@@ -10,3 +10,5 @@
 9-firstdirdeletion delete a directory in tmp
 10-back change working dir to the previous one
 11-lists lists many files in other directories ,currents...
+12-file type of file
+
