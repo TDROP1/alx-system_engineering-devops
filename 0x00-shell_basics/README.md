@@ -12,3 +12,4 @@
 11-lists lists many files in other directories ,currents...
 12-file type of file
 13-symbolic_link create a shortcut to the ls file in bin folder
+14-copy_html copies html files and doesnt overwrite because of cp -n options meaning no overwrite
