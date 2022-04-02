@@ -16,4 +16,6 @@
 15-move upper case files mv [[:upper:]]
 16-clean emacs deleteall files ending with ~ used rm *~ 
 17-tree make directory tree welcome welcome/to and welcome/to/school Ilearned to list directories and make them {d1,d2,d3}*dont use spaces it will creATE THAT CHARACTER IN THE NAMES OF THE DIRECTORIES
-18
+18-commas ls command option -m seperates all files ,directories with a ','
+19- school.mgc
+
