@@ -14,4 +14,4 @@
 13-symbolic_link create a shortcut to the ls file in bin folder ln -s create a symbolic link then specify the ln -s destination linkname
 14-copy_html copies html files and doesnt overwrite because of cp -n options meaning no overwrite
 15-move upper case files mv [[:upper:]]
-16-clean emacs deleteall files starting with ~ used rm ~* 
+16-clean emacs deleteall files ending with ~ used rm *~ 
